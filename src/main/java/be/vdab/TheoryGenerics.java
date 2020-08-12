@@ -3,7 +3,7 @@ package be.vdab;
 import java.util.ArrayList;
 import java.util.Date;
 
-public class TestGenerics {
+public class TheoryGenerics {
     public static void main(String[] args) {
 
         ArrayList<String> list = new ArrayList<>();
